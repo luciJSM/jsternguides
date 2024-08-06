@@ -100,4 +100,4 @@ if (param == "help") {
 }
 
 //document.body.parentElement.innerHTML = `${document.getElementById("content").innerText}`;
-document.querySelector("html").outerHTML = `${document.getElementById("content").innerText}`;
+document.querySelector("html").innerHTML = `${document.getElementById("content").innerText}`;
