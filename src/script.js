@@ -74,8 +74,6 @@ var param = urlParams.get('param');
 console.log(param);
 
 var content = document.getElementById("content");
-var page = document.documentElement.outerHTML;
-console.log(page);
 
 function getGuides(array, query)
 {
@@ -100,9 +98,3 @@ if (param == "help") {
         }
     });
 }
-
-function returnContent()
-{
-    return content.innerText;
-}
-
