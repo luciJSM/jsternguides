@@ -45,7 +45,7 @@ var guides = [
         "game": "genshin"
     },
     {
-        "name": "neuvilette",
+        "name": "neuvillette",
         "url": "https://docs.google.com/document/d/17FabyWM5Sq0j_KHw2V8i-qjtrIWdr9399V5LW1whBrg/edit?usp=sharing",
         "game": "genshin"
     },
