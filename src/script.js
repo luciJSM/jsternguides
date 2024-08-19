@@ -5,6 +5,11 @@ var guides = [
         "game": "genshin"
     },
     {
+        "name": "jane",
+        "url": "https://docs.google.com/document/d/1XAozDcIGGUfsAZIK6U7UcGUeZme0gSw8cvMn6smOCOo/edit?usp=sharing",
+        "game": "zzz"
+    },
+    {
         "name": "qingyi",
         "url": "https://docs.google.com/document/d/1-ntiLc9uRI8yzLeebX0MwFeZGd7OqQkx1wP_H-sY60I/edit?usp=sharing",
         "game": "zzz"
