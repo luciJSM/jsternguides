@@ -1,8 +1,15 @@
+// Available Guides : ZZZ → caesar, jane, qingyi, ellen, zhuyuan || Genshin → kinich, mualani, emilie, sigewinne, alhaitham, clorinde, wanderer, lyney, arlecchino, neuvillette, chiori, navia, furina, hutao || make sure to give credit when sharing !
+
 var guides = [
     {
-        "name": "mualani",
-        "url": "https://docs.google.com/document/d/1qR_QT1I1nNeNNn8CVp0XXeTGVYU22M1vEWM57fiErFc/edit?usp=sharing",
+        "name": "kinich",
+        "url": "https://docs.google.com/document/d/1BSkRlx3idMvmjCVsShXKKhvkNkX3nWkT4VQdQTzfrcw/edit?usp=sharing",
         "game": "genshin"
+    },
+    {
+        "name": "caesar",
+        "url": "https://docs.google.com/document/d/1dvG8eIYc1aDcy0RSkvxqW0gMAYxYX6TJJtVusRNR2ZU/edit?usp=sharing",
+        "game": "zzz"
     },
     {
         "name": "jane",
@@ -10,8 +17,18 @@ var guides = [
         "game": "zzz"
     },
     {
+        "name": "mualani",
+        "url": "https://docs.google.com/document/d/1qR_QT1I1nNeNNn8CVp0XXeTGVYU22M1vEWM57fiErFc/edit?usp=sharing",
+        "game": "genshin"
+    },
+    {
         "name": "qingyi",
         "url": "https://docs.google.com/document/d/1-ntiLc9uRI8yzLeebX0MwFeZGd7OqQkx1wP_H-sY60I/edit?usp=sharing",
+        "game": "zzz"
+    },
+    {
+        "name": "ellen",
+        "url": "https://docs.google.com/document/d/13lEWRX6bHhpmMEoFcwYuKiwKnEZfV5Vc2Xj_CNuTkig/edit?usp=sharing",
         "game": "zzz"
     },
     {
@@ -27,6 +44,11 @@ var guides = [
     {
         "name": "sigewinne",
         "url": "https://docs.google.com/document/d/1w-2Vk4fdp1iuMeAmVm1rW9MKelE5TGTnyuWartel_8k/edit?usp=sharing",
+        "game": "genshin"
+    },
+    {
+        "name": "alhaitham",
+        "url": "https://docs.google.com/document/d/1AKXixzK_hLtLcDbRVkBVBrHtx2y1enleEmx7aUkh3Q8/edit?usp=sharing",
         "game": "genshin"
     },
     {
@@ -57,6 +79,11 @@ var guides = [
     {
         "name": "chiori",
         "url": "https://docs.google.com/document/d/1S_32O-zkmuJN0y2XwWnsdJ6T8Z0zn7mV2XUBa-hxlGE/edit?usp=sharing",
+        "game": "genshin"
+    },
+    {
+        "name": "navia",
+        "url": "https://docs.google.com/document/d/1sLM-YjFlupPZHfQkPxhEd-aH6NifDdXSwNLVoT65fVA/edit?usp=sharing",
         "game": "genshin"
     },
     {
